@@ -21,8 +21,6 @@ To understand customer behavior from transactional data and apply machine learni
 
 - **Source**: UCI Machine Learning Repository
 - **File**: `Online Retail.xlsx`
-- **Features**:
-  - InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
 ---
 
